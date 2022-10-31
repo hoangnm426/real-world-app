@@ -1,0 +1,17 @@
+.tag-name {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.tag-name p {
+    margin: 0 0 0 5px;
+    display: inline;
+}
+
+
+.nav-link.disabled {
+    cursor: pointer !important;
+}
